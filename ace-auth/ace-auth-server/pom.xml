@@ -67,7 +67,7 @@
         </dependency>
         <dependency>
             <groupId>mysql</groupId>
-            <version>8.0.18</version>
+            <version>8.0.28</version>
             <artifactId>mysql-connector-java</artifactId>
         </dependency>
         <!-- druid -->
